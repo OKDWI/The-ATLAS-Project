@@ -1,1 +1,1 @@
-Implement auditable incident status transitions
+Implement auditable incident
